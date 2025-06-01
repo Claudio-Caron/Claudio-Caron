@@ -16,7 +16,7 @@ Tenho me dedicado a projetos autorais e estudos direcionados, me preparando para
 ## 💻 Stacks
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,mysql,vscode,postman,html,css,typescript,angular,docker,c,cpp,rider,discord,git,github,githubactions,azure" alt="Stacks" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,mysql,vscode,postman,html,css,typescript,angular,docker,c,cpp,rider,discord,git,github,githubactions,azure&perline=9" alt="Stacks" />
 </div>
 
 ---
