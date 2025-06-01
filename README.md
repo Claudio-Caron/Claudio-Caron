@@ -1,5 +1,5 @@
-### 🧑‍💻Cláudio
-# 👨‍💻 Sobre Mim
+# 🧑‍💻Cláudio
+## 👨‍💻 Sobre Mim
 
 Atualmente cursando Computação, com interesse na área de desenvolvimento web. Durante a graduação, adquiri e continuo a cristalizar conhecimentos acerca de lógica de programação e estrutura de dados, redes, engenharia de software, gerência de projetos, banco de dados e alguns outros conhecimentos de nicho.
 
@@ -13,10 +13,10 @@ Tenho me dedicado a projetos autorais e estudos direcionados, me preparando para
 
 ---
 
-## 💻 Minhas Stacks
+## 💻 Stacks
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,csharp,mysql,postman,visualstudio, vscode,html,css,typescript,angular,docker,c,cpp,rider,discord,git,github,githubactions,azure" alt="Stacks" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,mysql,vscode,postman,html,css,typescript,angular,docker,c,cpp,rider,discord,git,github,githubactions,azure" alt="Stacks" />
 </div>
 
 ---
